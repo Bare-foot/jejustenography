@@ -7,10 +7,10 @@ baseurl: "/jejusteno" # the subpath of your site, e.g. /blog
 url: "https://bare-foot.github.io" # the base hostname & protocol for your site
 author: 임승준
 street_address: 제주특별자치도 제주시
-city: 연삼로 401 (이도2동 1058-22) 4층
+city: 연삼로 401 (이도2동 1058-22)
 state: 
 zip_code: 
-country: 
+country: 4층 
 phone: (064) 702-0915
 
 # homepage tiles
