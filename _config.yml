@@ -1,17 +1,17 @@
 # site settings
 title: 제주속기사무소
-subtitle: 녹취
-email: yeoyuasset@naver.com
+subtitle: 녹취록, 회의록 전문 국가공인 1급 속기사
+email: jejuin0915@naver.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/jejusteno" # the subpath of your site, e.g. /blog
 url: "https://bare-foot.github.io" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+author: 임승준
+street_address: 연삼로 401 4층
+city: 제주시
+state: 제주특별자치도
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: 대한민국
+phone: (064) 702-0915
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
