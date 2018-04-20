@@ -3,8 +3,8 @@ title: 제주속기사무소
 subtitle: 녹취
 email: yeoyuasset@naver.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://bare-foot.github.io/jejusteno" # the base hostname & protocol for your site
+baseurl: "/jejusteno" # the subpath of your site, e.g. /blog
+url: "https://bare-foot.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
